@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#pushd . >/dev/null
+#cd ../source/
+../source/game.py $1 $2 $3 $4 $5 $6
+#popd >/dev/null
+
